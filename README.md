@@ -1,10 +1,10 @@
 Hi, 
 
-We at https://bitcontrol.ch specialize in connecting micro-controller boards via field buses. The lower layers are easy, the higher layers are not. Need advice or wanna check us out? Send us a question.
+At https://bitcontrol.ch we specialize in connecting micro-controller boards via field buses. In our experience, the lower layers are easy to program, the higher layers are not. Thus we've specialized in field bus design, implementation and testing.
 
-You can reach us at info@bitcontrol.ch. We're based in Switzerland, the smallest but most beautiful country in the heart of Europe.
+You can reach us at info@bitcontrol.ch. We're based in Switzerland, a small country right in the heart of Europe.
 
-Any question or feedback is welcome.
+Questions or feedback are welcome.
 
 Cheers,
 Andreas
